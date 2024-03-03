@@ -1,0 +1,17 @@
+credentials:
+  usernames:
+    web3owner:
+      email: firepaladiner@gmail.com
+      name: Dmitrii Kriukov
+      password: $2b$12$kJNdjLH/iBV1Hrl13TYROuVW5/bnNR7CQTgGgp6W4FJM19caaxOHq #abc
+    web3consumer:
+      email: fire-paladin@mail.ru
+      name: Thomas Aquinas
+      password: $2b$12$MbcL9v5uTHvADmvPM1auz.q5OGV6R8QRuWEKDGnhifP66.3vjSid. #def
+cookie:
+  expiry_days: 30
+  key: random_signature_key # Must be string
+  name: random_cookie_name
+preauthorized:
+  emails:
+  - melsby@gmail.com
